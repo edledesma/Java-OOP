@@ -13,7 +13,7 @@ public class E5limite {
         System.out.print("Input a new limit: ");
         int anInt = intInput.nextInt();
         int aCounter = 0;
-        while (aCounter<anInt) {
+        while (aCounter<=anInt) {
             System.out.print("Input a new value: ");
             aCounter = aCounter + intInput.nextInt();
             System.out.println("The value is " + aCounter);
