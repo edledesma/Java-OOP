@@ -1,0 +1,31 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color:white
+}
+
+h1 {
+    background-color: blue;
+    color:antiquewhite;
+}
+
+#subtitulo1{
+    background-color: red;
+}
+
+#subtitulo2{
+    background-color: green;
+}
+
+.subtituloA{
+    color:aqua;
+}
+
+main p {
+    color: red;
+}
+
+#texto-header {
+    border: 2px solid white;
+    padding: 20px;
+}
