@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EstanciasJDBC/EstanciasJDBC.iml" filepath="$PROJECT_DIR$/../EstanciasJDBC/EstanciasJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tienda JDBC.iml" filepath="$PROJECT_DIR$/Tienda JDBC.iml" />
+    </modules>
+  </component>
+</project>
